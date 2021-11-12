@@ -1,0 +1,26 @@
+{
+  "name": "todo_electron_a_faire",
+  "version": "1.0.0",
+  "description": "todo_electron_a_faire",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Hamilkar247/todo_electron_a_faire.git"
+  },
+  "keywords": [
+    "a_faire"
+  ],
+  "author": "Hamilkar247",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamilkar247/todo_electron_a_faire/issues"
+  },
+  "homepage": "https://github.com/Hamilkar247/todo_electron_a_faire#readme",
+  "devDependencies": {
+    "electron": "^15.3.1"
+  }
+}
